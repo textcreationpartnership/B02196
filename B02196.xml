@@ -1,0 +1,144 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The confession of faith of the Kirk of Scotland</title>
+            <title>Scottish Confession of Faith (1581)</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02196</idno>
+            <idno type="STC">Wing C4202CBA</idno>
+            <idno type="STC">ESTC R176578</idno>
+            <idno type="EEBO-CITATION">52614566</idno>
+            <idno type="OCLC">ocm 52614566</idno>
+            <idno type="VID">175799</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02196)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175799)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2751:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The confession of faith of the Kirk of Scotland</title>
+                  <title>Scottish Confession of Faith (1581)</title>
+               </titleStmt>
+               <extent>[3], 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Gedruct͠ by de weduwe van Matthijs Wagens ...,</publisher>
+                  <pubPlace>Tot Rotterdam, :</pubPlace>
+                  <date>Anno 1655.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: print show-through with loss of text.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of Scotland --  Creeds --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:175799:1"/>
+            <pb facs="tcp:175799:1" rendition="simple:additions"/>
+            <p> THE CONFESSION OF FAITH Of the KIRK of SCOTLAND.</p>
+            <q>
+               <bibl>EZR. Chap. 10. verſ. 5.</bibl> Then aroſe Ezra, and made the chief Prieſts and the Leuites and all Iſrael to ſwear, that they ſhould doe according to rhis word of the Lord: and they ſweare.</q>
+            <q>
+               <bibl>ISAIAH 44. 5.</bibl> One ſhall ſay, I am the Lords, another ſhall ſubſcriue with his hand unto the Lord, &amp;c.</q>
+            <p>TOT ROTTERDAM, Gedruct by de Weduwe van <hi>Matthijs Wagens,</hi> Boeck<g ref="char:EOLhyphen"/>verkoopſter op de Blaeck, by de Viſch-marckt, ANNO 1655.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:175799:2"/>
+            <p> THis Confeſsion was ſubſcriued and autho<g ref="char:EOLhyphen"/>riſed by the King and Counſell in the Year 1580. and by the Nationall aſſemblee in the Year 1581. and ſubſcriued againe by all ſorts of perſo<g ref="char:EOLhyphen"/>nes in the Year 1590, by a new ordinance of Coun<g ref="char:EOLhyphen"/>ſell, at the deſire of the Nationall Aſſemblie; and renewed by the Kings Commiſsioner and Counſell and Nationall Aſſemblie in the Year 1638. and again ratified (with addition of a promiſe to liue holily) by the Kings Commiſsioner and the Counſell and Nationall Aſſembly in the Year 1639. and confirmed by the King and Parliament at the deſire of the Nationall Aſſemblie in the Year 1642. and is followed by the Scots Congregation at Rotterdam ſince the Year 1644; without the Politike or Ciuill parte therof, as not belonging unto theſe who liue under another gouernement.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:175799:2"/>
+            <head>The Confeſſion of Faith <hi>OF The Kirke of SCOTLAND.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>EE All, and every one of Us under<g ref="char:EOLhyphen"/>written, Proteſt; that after long and due Examination of our owne conſcience, in matters of true &amp; falſe Religion, are now throughly reſolved of the Trueth, by the Word and Spirit of GOD, and therefore we believe with our hearts, confeſſe with our mouths, ſubſcribe with our hands, and conſtantly affirme be<g ref="char:EOLhyphen"/>fore God, and the whole World: that this onely is true Chriſtian Faith and Religion, pleaſing God and brin<g ref="char:EOLhyphen"/>ging Salvation to man, which now is by the mercie of God revealed to the world, by the preaching of the bleſſed Evangell, And received, believed, and defen<g ref="char:EOLhyphen"/>ded, by many and ſundry notable Kirkes and Real<g ref="char:EOLhyphen"/>mes, but chieflie by the <hi>Kirk of Scotland, the Kings Ma<g ref="char:EOLhyphen"/>jeſtie, and three eſtates of this Realme,</hi> as Gods eternall Trueth, and onely ground of our Salvation: as more particularlie is expreſſed in the Confeſſio<g ref="char:cmbAbbrStroke">̄</g> of our Faith, ſtabliſhed, and publicklie confirmed by ſundry Acts of Parliaments, and now of a long time hath beene openlie profeſſed by the Kings Majeſtie, and whole
+<pb n="4" facs="tcp:175799:3"/> body of this Realme both in Burgh and Land. To the which Confeſſion and forme of Religion, wee willinglie agree in our conſciences in all points, as un<g ref="char:EOLhyphen"/>to Gods undoubted Trueth and Veritie, grounded onely upon his written Word. And therefore, wee ab<g ref="char:EOLhyphen"/>horre and deteſt all contrarie Religion, and Doctrine: But chieflie, all kinde of Papiſterie, in generall and particular heads, even as they are now damned and confuted by the <hi>Word of God, and Kirk of Scotland:</hi> but in ſpeciall wee deteſt and refuſe the uſurped au<g ref="char:EOLhyphen"/>thoritie of that Roman Antichriſt upon the Scriptu<g ref="char:EOLhyphen"/>res of God, upon the Kirk, the civill Magiſtrate, and conſciences of men: All his tyranous lawes made u<g ref="char:EOLhyphen"/>pon indifferent things againſt our Chriſtian libertie: His erroneous Doctrine, againſt the ſufficiencie of the written Word, the perfection of the Law, the office of Chriſt, and his bleſſed Evangell: His corrupted Do<g ref="char:EOLhyphen"/>ctrine concerning original ſinne, our naturall inabilitie &amp; rebellion to Gods Law, our Iuſtification by Faith onely, our imperfect Sanctification and obedience to the Law, the nature, number and uſe of the Holy Sa<g ref="char:EOLhyphen"/>craments; His five baſtard Sacraments, with al his Ri<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es, Ceremonies, and falſe Doctrine, added to the mi<g ref="char:EOLhyphen"/>niſtration of the true Sacraments without the Word of God: His cruell judgement againſt Infants depar<g ref="char:EOLhyphen"/>ting without the Sacrament: his abſolute neceſſitie of
+<pb n="5" facs="tcp:175799:3"/> Baptiſme: his blaſphemous opinion of Tranſubſtan<g ref="char:EOLhyphen"/>tiation, of reall preſence of Chriſts body in the Ele<g ref="char:EOLhyphen"/>ments, and receiving of the ſame by the wicked, or bo<g ref="char:EOLhyphen"/>dies of men: His diſpenſations with ſolemne Oathes, Perjuries, and degrees of Marriage forbidden in the Word: his crueltie againſt the innocent divorced: his divelliſh Maſſe: his blaſphemous Prieſthood: his profane Sacrifice for the ſinnes of the dead: his Ca<g ref="char:EOLhyphen"/>nonization of men, calling upon Angels or Saints de<g ref="char:EOLhyphen"/>parted, worſhipping of Imagerie, Relicts, &amp; Croſſes, dedicating of Kirks, Altars, Dayes, Vowes to creatu<g ref="char:EOLhyphen"/>res; his Purgatorie, Prayers for the dead, praying, or ſpeaking in a ſtrange language, with his Proceſſions and blaſphemous Letanie, and multitude of Advo<g ref="char:EOLhyphen"/>cates or Mediators: his manifold Orders, Auricular Confeſſion: his deſperate and uncertaine Repentan<g ref="char:EOLhyphen"/>ce; his generall and doubtſome Faith; his ſatisfacti<g ref="char:EOLhyphen"/>ons of men for their ſinnes: his Iuſtification by works, <hi>opus operatum,</hi> works of Supererogation, Merits, Par<g ref="char:EOLhyphen"/>dons, Peregrinations, and Stations: his holy Water, baptiſing of Bells, conjuring of Spirits. croſſing, ſa<g ref="char:EOLhyphen"/>ning, anointing, conjuring, hallowing of Gods good creatures, with the ſuperſtitious opinion, joyned the<g ref="char:EOLhyphen"/>rewieh: his wordlie Monarchie, and wicked Hierar<g ref="char:EOLhyphen"/>chie: his three ſolemne vowes, with all his ſhavel<g ref="char:EOLhyphen"/>lings of ſundrie ſorts; his erreneous and bloudie de<g ref="char:EOLhyphen"/>crees
+<pb n="6" facs="tcp:175799:4"/> made at <hi>Trent,</hi> with all the ſubſcribers and ap<g ref="char:EOLhyphen"/>provers of that cruell and bloudie Band, conjured a<g ref="char:EOLhyphen"/>gainſt the Kirk of God: and finallie, wee deteſt all his vaine Allegories, Rites, Signes, and Traditions, brought in the Kirk, without, or againſt the Word of God, and Doctrine of this true reformed Kirk; to the which wee joyne our ſelves willinglie, in Doctrine, Faith, Religion, Diſcipline, and uſe of the Holy Sacra<g ref="char:EOLhyphen"/>ments as lively members of the ſame, in Chriſt our Head: promiſing, and ſwearing by the <hi>Great Name of the Lord our GOD,</hi> that wee ſhall continue in the obe<g ref="char:EOLhyphen"/>dience of the Doctrine and Diſcipline of this Kirk, and ſhall defend the ſame according to our Vocation and Power, all the dayes of our lives, under the paines contained in the Law, and danger both of Body and ſoule, in the day of Gods fearefull Iudgement: and ſeeing that many are ſtirred up by Sathan, and that Roman Antichriſt, to promiſe, ſweare, ſubſcribe, and for a time uſe the holy Sacraments in the Kirk, deceit<g ref="char:EOLhyphen"/>fullie, againſt their owne conſciences, minding there<g ref="char:EOLhyphen"/>by, firſt, under the externall cloake of Religion, to corrupt and ſubvert ſecretlie Gods true Religion within the Kirk, and afterward, when time may ſerve, to become open enemies and perſecutors of the ſame, under vaine hope of the Popes diſpenſation, deviſed againſt the Word of God, to his greater confuſion, and
+<pb n="7" facs="tcp:175799:4"/> their double condemnation in the day of the Lord LORD JESUS, Wee, therefore, willing to take away all ſuſpition of hypocriſie, and of ſuch double dealing with God and his Kirk, Proteſt, and call <hi>The Searcher of all hearts</hi> for witneſſe, that Our mindes and hearts, doe fully agree with this our <hi>Conſeſsion, Promiſe, Oath</hi> and <hi>Subſcription,</hi> ſo that Wee are not moved for any wordlie reſpect, but are perſwaded onely in our Conſciences, through the knowledge and love of Gods true Religion, printed in Our hearts, by the ho<g ref="char:EOLhyphen"/>ly Spirit, as Wee ſhall anſwer to him in the day, when the ſecrets of all hearts ſhall bee diſcloſed. And becauſe wee cannot looke for a bleſſing from God upon our proceedings; except with our Profeſſion and Subſcription wee joyne ſuch a life and converſa<g ref="char:EOLhyphen"/>tion, as beſeemeth Chriſtians, who haue renewed their Covenant with God, Wee, therefore, faith<g ref="char:EOLhyphen"/>fullie promiſe, for our ſelves, our followers, and all others under us, both in publike, in our particular fa<g ref="char:EOLhyphen"/>milies and perſonall carriage, to endeavour to keepe our ſelves within the bounds of Chriſtian libertie, and to be good examples to others of all Godlineſſe, So<g ref="char:EOLhyphen"/>berneſſe, and Righteouſneſſe, and of every duetie wee owe to God and Man, and that this our Union and Conjunction may bee obſerved without violation, VVee call the living God, the Searcher of our Hearts,
+<pb n="8" facs="tcp:175799:5"/> to witnes, who knoweth this to bee our ſincere De<g ref="char:EOLhyphen"/>ſire, and unfained Reſolution, as wee ſhall anſwere to JESUS CHRIST, in the great day, and un<g ref="char:EOLhyphen"/>der the paine of Gods euerlaſting wrath, and of infa<g ref="char:EOLhyphen"/>mie, and of loſſe of all honour and reſpect in this VVorld: Moſt humblie beſeeching the LORD, to ſtrengthen us by his holy Spirit for this end: and to bleſſe our deſires and proceedings with a happie ſucceſſe, that Religion and Righteouſnes may flouriſh in the Land, to the glory of God, the honour of our King, and peace and comfort of us all. In witnes wherof we haue ſubſcribed with our hands all the premiſſes.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
